@@ -5,8 +5,13 @@ Repository of A dynamcis tale of 2 UP carillons paper.
 ## Part I Diliman
 <div style="text-align:center">
 
+<p align="center">
 100
-<img src="/readme_assets/100dpi-SSI_COV-1.8070800621402687.gif" width="100%" alt="Description of gif 1">
+</p>
+
+<p align="center">
+    <img src="/readme_assets/100dpi-SSI_COV-1.8070800621402687.gif"width="100%" alt="Description of gif 1">
+</p>
 
 90
 <img src="/readme_assets/100dpi-SSI_COV-1.8070800621402687.gif" width="90%" alt="Description of gif 1">
