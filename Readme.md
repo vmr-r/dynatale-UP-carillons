@@ -7,6 +7,7 @@ Email: cscanolas@gmail.com
 ## Part I: UP Carillon @Diliman
 
 Ambient vibration data from the UP Carillon in Diliman was collected on October 9, 2025. The animated mode shapes corresponding to their respective extracted frequencies are presented below.
+
 <div style="text-align:center">
 <p align="center">
 </p>
@@ -50,3 +51,45 @@ Ambient vibration data from the UP Carillon in Diliman was collected on October 
 <p align="center">
     <img src="/readme_assets/200dpi-SSI_COV-15.67313458466969.gif"width="80%" alt="SSI_COV-15.67313458466969">
 </p>
+
+</div>
+
+## Part II: UP Carillon @Los Baños
+
+Ambient vibration data from the UP Carillon in Los Baños was collected on August 5, 2025. The animated mode shapes corresponding to their respective extracted frequencies are presented below.
+
+<div style="text-align:center">
+
+<p align="center">
+<img src="/readme_assets/UPLB/200dpi-SSI_COV-1.4074478719220196.gif"width="80%" alt="SSI_COV-1.4074478719220196">
+</p>
+
+<p align="center">
+<img src="/readme_assets/UPLB/200dpi-SSI_COV-1.4957869754821804.gif"width="80%" alt="SSI_COV-1.4957869754821804">
+</p>
+
+<p align="center">
+<img src="/readme_assets/UPLB/200dpi-SSI_COV-2.954432880564341.gif"width="80%" alt="">
+</p>
+
+<p align="center">
+<img src="/readme_assets/UPLB/200dpi-SSI_COV-5.044719751624748.gif"width="80%" alt="SSI_COV-5.044719751624748">
+</p>
+
+<p align="center">
+<img src="/readme_assets/UPLB/200dpi-SSI_COV-5.658326788213932.gif"width="80%" alt="SSI_COV-5.658326788213932">
+</p>
+
+<p align="center">
+<img src="/readme_assets/UPLB/200dpi-SSI_COV-5.805049938646719.gif"width="80%" alt="SSI_COV-5.805049938646719">
+</p>
+
+<p align="center">
+<img src="/readme_assets/UPLB/200dpi-SSI_COV-9.099807263492906.gif"width="80%" alt="SSI_COV-9.099807263492906">
+</p>
+
+<p align="center">
+<img src="/readme_assets/UPLB/200dpi-SSI_COV-16.046720495497627.gif"width="80%" alt="SSI_COV-16.046720495497627">
+</p>
+
+</div>
